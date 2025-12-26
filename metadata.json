@@ -1,0 +1,5 @@
+{
+  "name": "射线数字评片训练系统",
+  "description": "专业的射线数字评片（RT）在线训练平台，支持缺陷标定、智能评分及能力多维度分析。",
+  "requestFramePermissions": []
+}
